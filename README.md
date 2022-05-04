@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eshragh
 - 👀 I’m interested in Data Science / Machine Learning / Cloud
-- 🌱 I’m currently learning Every Skill for Data
-- 💞️ I’m looking to collaborate on any type of Data related projects
+- 🌱 I’m Working with Python / Power BI / SQL
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me (e.ghoodjani@gmail.com)
 
 <!---
